@@ -4,7 +4,7 @@ from discord.ext import commands
 import json
 import os
 
-TOKEN os.getenv("DISCORD_TOKEN")
+TOKEN "oMTQ0NjExMjg2MTQ2MTE1MTkzNA.G6d5nI.7oQ-k9HyV4-TvrhkB3zUNUXHAE78MyY4yecrKU"
 CONFIG_FILE = "config.json"
 
 # ---------- config ----------
